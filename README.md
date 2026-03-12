@@ -1,9 +1,6 @@
-# Hi 👋 I'm Chernet
+## Hi I'm Chernet
 
-🚀 Full Stack Developer (MERN & NEXT.js)
-☁️ Cloud & DevOps Enthusiast
-
-## 🛠 Full Stack & DevOps Tech Stack
+### A self-taught Full Stack Developer (MERN & NEXT.js), Cloud & DevOps Enthusiast
 
 <p align="left">
 
