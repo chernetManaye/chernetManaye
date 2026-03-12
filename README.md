@@ -1,5 +1,15 @@
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker)
-![Terraform](https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&logo=terraform)
-![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws)
+# Hi 👋 I'm Chernet
+
+🚀 MERN Stack Developer  
+☁️ Cloud & DevOps Enthusiast
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
+</p>
