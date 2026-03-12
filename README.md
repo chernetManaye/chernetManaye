@@ -1,6 +1,6 @@
 ## Hi I'm Chernet
 
-### A self-taught Full Stack Developer (MERN & NEXT.js), Cloud & DevOps Enthusiast
+### A self-taught Full Stack Developer (MERN & NEXT.JS) & DevOps Enthusiast
 
 <p align="left">
 
